@@ -194,7 +194,10 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila4PC5() {
-
+		System.out.println("Damián Tortosa:");
+		System.out.println("Espero que paséis una navidad estupenda, que os regalen muchas cosas :),");
+		System.out.println("y que el año que viene sea increíble y podáis cumplir todos vuestros propósitos.");
+		System.out.println(" ");
 	}
 
 	private static void AlumneFila4PC6() {
