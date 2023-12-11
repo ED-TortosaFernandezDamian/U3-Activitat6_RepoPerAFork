@@ -103,7 +103,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila4 PC4:
 
 
-#### AlumneFila4 PC5:
+#### AlumneFila4 PC5: Me he clonado el repositorio localmente, y he actualizado el fichero Java donde muestro mi nombre con una felicitación navideña y he hecho un commit en mi rama (damian) guardando los cambios, y luego esa rama la he subido a mi reopistorio remoto para guardar los cambios.
 
 
 #### AlumneFila4 PC6:
